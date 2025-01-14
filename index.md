@@ -9,7 +9,6 @@ I add some topics to this file
 $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
 ```
-
 ```python
 print("Hello, World!")
 ```
